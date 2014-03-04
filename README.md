@@ -1,4 +1,5 @@
-sublime-preferences
+Sublime-Preferences
 ===================
 
-My Sublime Text User Preferences File
+My Sublime Text Preferences Files
+
